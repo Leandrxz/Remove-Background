@@ -2,7 +2,8 @@ Removedor de Fundo de Imagens
 
 Script em Python desenvolvido para remover automaticamente o fundo de imagens utilizando a API do remove.bg, além de redimensionar os arquivos para um tamanho padrão.
 
-Funcionalidade
+Funcionalidade:
+
 Remove o fundo de imagens (.jpg, .jpeg, .png)
 Redimensiona as imagens para 1200x1200
 Salva o resultado em formato PN
