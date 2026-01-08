@@ -10,7 +10,6 @@ Salva o resultado em formato PN
 Processa várias imagens de uma pasta automaticamente
 
 Tecnologias:
-
 Python
 API remove.bg
 Pillow (PIL)
@@ -18,7 +17,6 @@ Requests
 Tkinter
 
 Como usar:
-
 Execute o script
 Selecione a pasta com as imagens
 Selecione a pasta de saída
